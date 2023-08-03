@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+/.cache
+/public
+package-lock.json
+yarn-error.log
+.env
+/.next
